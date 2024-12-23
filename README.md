@@ -145,10 +145,99 @@ Publish the website in the given URL.
 
 </body>
 </html>
+```
+```
+admin :
+</html>
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>ADMINISTRATION</title>
+        <style>
+             body{
+                background-size: 1550px;
 
+                background-repeat: no-repeat;
+                background-color: aquamarine;
+
+            }.image-row {
+                    display: flex;
+                    gap: 1.4%;
+                }
+                .image-row img{
+                    width: 170PX;
+                    height: 180PX;
+
+                }
+                footer {
+                    
+                     color: white;
+                     padding: 2px;
+                     text-align: center;
+                }
+        </style>
+            </head>
+            <center>
+                <body>
+                    
+                   <br><br><br><br>
+                    <h3 style="color: brown;"> OUR MASTERS :</h3>
+        <style>
+            
+        </style>
+        
+        <div  class="image-row">
+            <div>
+                <br><p style="color: brown; font-family: Arial, Helvetica, sans-serif;" >01.ATUL KOCHHAR</p>
+               
+                <b style="color: rgb(234, 36, 36);"> ( Exp: 22 years )</b>
+            </div>
+            <BR><img src="https://th.bing.com/th/id/OIP.29sq3N2575pkvFxArboS8QAAAA?rs=1&pid=ImgDetMain">
+                
+                <div>
+                    <p style="color: brown; font-family: Arial, Helvetica, sans-serif;">02.TOBBY MEGUIRE</p>
+                    
+                    <b style="color: rgb(225, 53, 53);"> ( Exp: 8 years )</b>
+                </div>
+                <img src="https://th.bing.com/th/id/OIP.FqhLFiEnV8mZRhdeX82V4QHaE8?w=640&h=427&rs=1&pid=ImgDetMain">
+
+                <div>
+                    <p style="color: brown; font-family: Arial, Helvetica, sans-serif;">03.KRISHA YEAGER</p>
+                    
+                    <b style="color:rgb(215, 38, 38);"> ( Exp : 11 years )</b>
+                </div>
+                <img src="https://img.freepik.com/free-photo/low-angle-male-employee-coffee-shop_23-2148366548.jpg">
+
+                <div>
+                    <p style="color: brown; font-family: Arial, Helvetica, sans-serif;">04.NATIEL;</p>
+                    
+                    <b style="color: rgb(201, 51, 51);"> ( Exp : 6 years )</b>
+                </div>
+                <img src="https://cdn.shopify.com/s/files/1/0865/4126/files/0BE3A7E4-52D2-4E08-BEC5-09AAB3230AAF.jpg?v=1586354109">
+
+                <div>
+                    <p style="color: brown; font-family: Arial, Helvetica, sans-serif;">05.ANDREW GARFIELD</p>
+                    
+                    <b style="color: rgb(176, 42, 42);"> ( Exp : 10 years )</b>
+                </div>
+                <img src="https://s.hdnux.com/photos/70/73/36/14923653/3/rawImage.jpg">
+               
+            </div>
+            <br>
+            <br>
+            <br>
+        </center><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+        <footer>
+            <p>&copy; 2024 Hungry Bites. All Rights Reserved</p>
+        </footer>
+    </body>
+</html>
 ```
 # OUTPUT:
 ![Screenshot (3)](https://github.com/user-attachments/assets/b5829475-d476-4635-999e-4dbb4fd2ebef)
+
+![Screenshot 2024-12-23 192456](https://github.com/user-attachments/assets/755c17f2-7c3c-4a66-a585-c5931c524dc7)
+
 
 # RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.
