@@ -232,6 +232,133 @@ admin :
         </footer>
     </body>
 </html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Menu</title>
+  <style>
+    body {
+      font-family: 'Arial', sans-serif;
+      background-color: #f5f5f5;
+      margin: 0;
+      padding: 0;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      min-height: 100vh;
+    }
+
+    h1 {
+      font-family: 'Georgia', serif;
+      color: #6b8e23;
+      margin: 20px 0;
+    }
+
+    .menu {
+      width: 80%;
+      max-width: 800px;
+      border: 1px solid #ddd;
+      border-radius: 8px;
+      background-color: #fff;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    }
+
+    .menu-section {
+      padding: 20px;
+      border-bottom: 1px solid #ddd;
+    }
+
+    .menu-section:last-child {
+      border-bottom: none;
+    }
+
+    .menu-item {
+      display: flex;
+      justify-content: space-between;
+      padding: 10px 0;
+    }
+
+    .menu-item-name {
+      font-weight: bold;
+      color: #333;
+    }
+
+    .menu-item-price {
+      color: #888;
+    }
+  </style>
+</head>
+<body>
+  <h1>Menu</h1>
+  <div class="menu">
+    <div class="menu-section">
+      <h2>Classic Teas</h2>
+      <div class="menu-item">
+        <span class="menu-item-name">Green Tea</span>
+        <span class="menu-item-price">50 Rs</span>
+      </div>
+      <div class="menu-item">
+        <span class="menu-item-name">Black Tea</span>
+        <span class="menu-item-price">30 Rs</span>
+      </div>
+      <div class="menu-item">
+        <span class="menu-item-name">Herbal Tea</span>
+        <span class="menu-item-price">80 Rs</span>
+      </div>
+    </div>
+    <div class="menu-section">
+      <h2>Specialty Teas</h2>
+      <div class="menu-item">
+        <span class="menu-item-name">Chai Tea</span>
+        <span class="menu-item-price">40 Rs</span>
+      </div>
+      <div class="menu-item">
+        <span class="menu-item-name">Matcha Tea</span>
+        <span class="menu-item-price">50 Rs</span>
+      </div>
+      <div class="menu-item">
+        <span class="menu-item-name">Oolong Tea</span>
+        <span class="menu-item-price">45 Rs</span>
+      </div>
+      <div class="menu-item">
+        <span class="menu-item-name">carrot Tea</span>
+        <span class="menu-item-price">45 Rs</span>
+      </div>
+      <div class="menu-item">
+        <span class="menu-item-name"> Yellow Tea</span>
+        <span class="menu-item-price">45 Rs</span>
+      </div>
+      <div class="menu-item">
+        <span class="menu-item-name">Pu-erh Tea</span>
+        <span class="menu-item-price">45 Rs</span>
+      </div>
+    </div>
+    <div class="menu-section">
+      <h2>Iced Teas</h2>
+      <div class="menu-item">
+        <span class="menu-item-name">Iced Green Tea</span>
+        <span class="menu-item-price">50 Rs</span>
+      </div>
+      <div class="menu-item">
+        <span class="menu-item-name">Iced Black Tea</span>
+        <span class="menu-item-price">50 Rs</span>
+      </div>
+      <div class="menu-item">
+        <span class="menu-item-name">Hypiscas Tea</span>
+        <span class="menu-item-price">50 Rs</span>
+      </div>
+      <div class="menu-item">
+        <span class="menu-item-name">Iced Herbal Tea</span>
+        <span class="menu-item-price">70 Rs</span>
+      </div>
+    </div>
+  </div>
+</body>
+</html>
+
 ```
 # OUTPUT:
 ![Screenshot (3)](https://github.com/user-attachments/assets/b5829475-d476-4635-999e-4dbb4fd2ebef)
