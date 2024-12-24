@@ -365,6 +365,10 @@ admin :
 
 ![Screenshot 2024-12-23 192456](https://github.com/user-attachments/assets/755c17f2-7c3c-4a66-a585-c5931c524dc7)
 
+![Screenshot 2024-12-24 214253](https://github.com/user-attachments/assets/c66b0a0b-8cd7-486e-809b-70590843b3ef)
+
+
+
 
 # RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.
